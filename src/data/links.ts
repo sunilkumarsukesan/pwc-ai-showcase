@@ -9,58 +9,44 @@ export interface LinkItem {
 export const links: LinkItem[] = [
   {
     id: "consulting",
-    title: "Consulting",
-    description: "Strategic business consulting services for your organization",
-    url: "https://google.co.in",
+    title: "PwC South East Asia Consulting",
+    description: "Where human meets digital",
+    url: "https://www.pwc.com/gx/en/services/consulting/south-east-asia-consulting.html",
     icon: "briefcase"
   },
   {
-    id: "audit",
-    title: "Audit & Assurance",
-    description: "Independent audit and assurance services",
-    url: "/audit",
-    icon: "check-circle"
+    id: "youtube",
+    title: "Human-led, GenAI powered transformation",
+    description: "How we work with our alliances to bring a human-led, tech-powered approach to deliver GenAI solution",
+    url: "https://www.youtube.com/watch?v=3ofI0tzU9Gc",
+    icon: "video"
   },
   {
-    id: "tax",
-    title: "Tax",
-    description: "Tax planning and compliance solutions",
-    url: "/tax",
-    icon: "calculator"
+    id: "youtube",
+    title: "Automating business process model creation with GenAI",
+    description: "From discovery to verified design, in 50% of the time",
+    url: "https://www.youtube.com/watch?v=TkFJ31vVXZI",
+    icon: "video"
   },
   {
-    id: "digital",
-    title: "Digital Services",
-    description: "Digital transformation and technology solutions",
-    url: "/digital",
-    icon: "smartphone"
+    id: "youtube",
+    title: "Generative AI powered product design",
+    description: "To Transform your agile planning from a months-long process into single, productive day",
+    url: "https://www.youtube.com/watch?v=VvRpvpUjEIg",
+    icon: "video"
   },
   {
-    id: "risk",
-    title: "Risk Assurance",
-    description: "Manage business risks and enhance performance",
-    url: "/risk",
-    icon: "shield"
+    id: "data",
+    title: "PwC's Solution for Data and Cloud Transformation",
+    description: "PwC's Solution for Data and Cloud Transformation",
+    url: "https://pwcapac.sharepoint.com/:p:/r/sites/MY-GSD-0AK6FmEufywuHUk9PVA/_layouts/15/Doc.aspx?sourcedoc=%7BA7797E0E-CC23-4748-ABF6-6D3F8ACFC5E7%7D&file=PwC%E2%80%99s%20Solutions%20for%20Data%20and%20Cloud%20Transformation.pptx&action=edit&mobileredirect=true",
+    icon: "cloud"
   },
   {
-    id: "sustainability",
-    title: "Sustainability",
-    description: "ESG strategy and reporting services",
-    url: "/sustainability",
-    icon: "leaf"
-  },
-  {
-    id: "deals",
-    title: "Deals",
-    description: "M&A and transaction advisory services",
-    url: "/deals",
-    icon: "trending-up"
-  },
-  {
-    id: "legal",
-    title: "Legal",
-    description: "Legal advice and services for your business",
-    url: "/legal",
-    icon: "scale"
+    id: "pdf",
+    title: "Agentic AI – the new frontier in GenAI",
+    description: "Agentic AI empowers autonomous, goal-driven agents to optimize workflows and drive innovation across industries",
+    url: "https://www.pwc.com/m1/en/publications/documents/2024/agentic-ai-the-new-frontier-in-genai-an-executive-playbook.pdf",
+    icon: "file"
   }
 ];

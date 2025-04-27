@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.header-banner {
+    filter: brightness(65%) contrast(110%);
+  }
+  

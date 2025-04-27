@@ -15,7 +15,7 @@ const LinkCard: React.FC<LinkCardProps> = ({ link, delay }) => {
 
   return (
     <a 
-      href={link.url}
+      href={link.url} target="_blank" rel="noopener noreferrer"
       className="card-transition group flex flex-col items-start justify-between rounded-xl p-6 h-full bg-white border border-gray-200 hover:card-hover hover:border-orange-400 animate-fade-in"
       style={{ 
         animationDelay: `${delay * 0.1}s`,
