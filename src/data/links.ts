@@ -10,7 +10,7 @@ export const links: LinkItem[] = [
   {
     id: "consulting",
     title: "PwC South East Asia Consulting",
-    description: "Where human meets digital",
+    description: "Empowering Southeast Asia’s businesses with human-led, tech-powered consulting solutions",
     url: "https://www.pwc.com/gx/en/services/consulting/south-east-asia-consulting.html",
     icon: "briefcase"
   },
