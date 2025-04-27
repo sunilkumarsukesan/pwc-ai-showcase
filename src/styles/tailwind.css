@@ -1,0 +1,16 @@
+/* Custom tailwind extensions */
+@layer components {
+  .pwc-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bg-gradient-pwc {
+    background: linear-gradient(135deg, #E27231 0%, #D25F2A 100%);
+  }
+}
