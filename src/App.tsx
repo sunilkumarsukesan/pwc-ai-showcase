@@ -39,12 +39,13 @@ function App() {
       className="w-full h-72 object-cover brightness-50 contrast-125"
     />
     <div className="absolute inset-0 flex flex-col justify-center items-center text-white text-center">
-      <h2 className="text-5xl font-bold">
-        Consulting at the <span className="bg-red-600 text-white px-1">A</span>ge of
+      <h2 className="text-4xl font-bold">
+        Consulting in the <span className="bg-red-600 text-white px-1">A</span>ge of
         <span className="text-white px-1"> </span>
         <span className="bg-red-600 text-white px-1">I</span>nnovation
       </h2>
-      <p className="mt-2 text-lg max-w-3xl">Discover how PwC can help you solve your complex business challenges</p>
+      <br></br>
+      <p className="mt-2 text-lg max-w-2xl">Discover how PwC can help you solve your complex business challenges</p>
     </div>
   </section>
 
