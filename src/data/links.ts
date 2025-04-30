@@ -36,11 +36,32 @@ export const links: LinkItem[] = [
     icon: "video"
   },
   {
-    id: "data",
-    title: "PwC's Solution for Data and Cloud Transformation",
-    description: "PwC's Solution for Data and Cloud Transformation",
-    url: "https://pwcapac.sharepoint.com/:p:/r/sites/MY-GSD-0AK6FmEufywuHUk9PVA/_layouts/15/Doc.aspx?sourcedoc=%7BA7797E0E-CC23-4748-ABF6-6D3F8ACFC5E7%7D&file=PwC%E2%80%99s%20Solutions%20for%20Data%20and%20Cloud%20Transformation.pptx&action=edit&mobileredirect=true",
-    icon: "cloud"
+    id: "youtube",
+    title: "PwC's 2025 AI Business Predictions",
+    description: "By 2025, AI is expected to drive strategic decision-making, enable large-scale automation, enhance customer experiences, and necessitate governance and workforce transformation.",
+    url: "https://www.youtube.com/watch?v=tgiRGuXQrak",
+    icon: "video"
+  },
+  {
+    id: "youtube",
+    title: "Generative AI use case demo: IT Transformation",
+    description: "Revolutionize IT transformation with generative AI by automating code generation, streamlining infrastructure management, and enhancing system optimization.",
+    url: "https://www.youtube.com/watch?v=UKAbf607ZdE",
+    icon: "video"
+  },
+  {
+    id: "youtube",
+    title: "Generative AI use case demo: Finance Transformation",
+    description: "Leverage generative AI to transform finance with automated modeling, enhanced analytics, and optimized resource allocation.",
+    url: "https://www.youtube.com/watch?v=W5cvK7ZtmJU",
+    icon: "video"
+  },
+  {
+    id: "pdf",
+    title: "Artificial Intelligence (AI) - Unlock full potential of AI for your organisation",
+    description: "Unlock the full potential of AI to transform your organization with enhanced efficiency, data-driven insights, and innovative capabilities.",
+    url: "https://www.pwc.com/my/en/services/digital/artificial-intelligence.html",
+    icon: "file"
   },
   {
     id: "pdf",
